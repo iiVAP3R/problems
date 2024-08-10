@@ -1,5 +1,5 @@
 def main():
-    # TODO: Prompt the user for the width and height of a rectangle and calculate the area using the following formula: A = W*H
+    # TODO: Prompt the user for the !!WITDTH FIRST!! and !! HEIGHT SECOND !! of a rectangle and calculate the area using the following formula: A = W*H
     # TODO: Once the area is calculated, print it out with accompanying text. (i.e "The area of the triangle is: 30")
 
     pass # Remove 'pass' once you begin working in this function.
