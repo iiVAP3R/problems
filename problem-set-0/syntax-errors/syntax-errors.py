@@ -12,9 +12,10 @@ def main():
 
 
     # * means multiplication, ** means exponents. 
-    coneVolume == (1/3)*math.pi*(radius**2)*height
+    coneVolume == (1/3)*math.pi*(radius**2)*height, 2
+    
 
-    print("The volume of your cone is: ", coneVolume)
+    print("The volume of your cone is approximately: ", coneVolume)
 
 
 
