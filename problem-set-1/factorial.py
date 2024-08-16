@@ -3,6 +3,8 @@ def main():
     user_num = int(input("Enter the number you'd like to calculate the factorial for: "))
 
     # TODO: Implement error-handlers for negative, zero, and no inputs. 
+    # NOTE: PROGRAM SHOULD TERMINATE IF AN ERROR OCCURS!!!!!!
+
 
 
     print(factorial(user_num))
