@@ -2,10 +2,9 @@ def main():
     # prompt the user for input
     user_num = int(input("Enter the number you'd like to calculate the factorial for: "))
 
-    # check if the user decides to be funny
-    if user_num < 0:
-        print("You can't calculate the factorial of zero or a negative number")
-        exit(1) # exit with status code 1
+    # TODO: Implement error-handlers for negative, zero, and no inputs. 
+    # NOTE: PROGRAM SHOULD TERMINATE IF AN ERROR OCCURS!!!!!!
+
 
 
     print(factorial(user_num))
